@@ -1,0 +1,100 @@
+
+## **FeedbackIQ System Instruction Guide**
+
+### **Overview**
+Welcome to the FeedbackIQ Dashboard. This system helps you collect, analyze,
+and report customer sentiment data across platforms. Below is a simplified guide
+to help you navigate and use the system efficiently.
+
+---
+### **1. Navigation**
+Use the left sidebar to access all main sections:
+* **Dashboard** – View system status and activity.
+* **Data Collection** – Manage data from Facebook and Instagram.
+* **Sentiments** – Analyze customer sentiment.
+* **Analytics** – View trends, predictions, and reports.
+* **Statistics** – Review breakdowns over time.
+* **Help** – Get support and FAQs.
+* **Display Mode** – Switch between light and dark themes.
+---
+### **2. Login & Signup**
+**Login:**
+* Enter a valid business email and password.
+* Toggle password visibility using the eye icon.
+* Check the box to agree to Terms and Privacy Policy.
+* Click "Forgot Password?" to reset your password.
+* Submit using the **Login** button.
+
+**Signup:**
+* Enter all required details: name, email, company, job title, phone (+266...), and secure password.
+* Password must include at least 8 characters, 1 uppercase, 1 number, and 1 special character.
+* Confirm password and agree to terms.
+* Submit button activates only when all fields are valid.
+Errors will appear if any fields are missing or incorrect.
+---
+### **3. Password Reset**
+
+* Go to the Password Reset page.
+* Enter your registered email and click **Reset Password**.
+* Check your email (including spam) for a reset link.
+* Follow the link to set a new password.
+* If email is invalid or empty, an error will be shown.
+* Click "Log in" if you remember your password.
+---
+### **4. Feedback Data Collection**
+**Purpose:** Collect and analyze data from Facebook or Instagram.
+**Steps:**
+1. Navigate to **Data Collection**.
+2. Choose platform (Facebook or Instagram).
+3. Enter:
+
+   * Facebook: email/username, password, business page link.
+   * Instagram: username, password, profile link.
+4. Click **Collect Data**.
+**After Submission:**
+* View total posts, likes, comments, and chart breakdowns.
+* Watch for success or error messages.
+* Ensure credentials and URLs are valid.
+* Connection issues may affect collection.
+**Security:**
+* All credentials are encrypted.
+* Only collect from pages you manage.
+---
+### **5. Business Data Collection**
+**Use Case:** Facebook Business Pages only.
+**Requirements:**
+* Valid Facebook login.
+* Admin access to the page.
+* Correct URL format.
+**After Submission:**
+* A success message confirms start.
+* Data collection begins automatically.
+* Processing time varies by page size.
+**Next Steps:**
+* View results in the Dashboard.
+* Analyze in the Sentiments and Analytics sections.
+---
+### **6. Dashboard Guide**
+**Top Features:**
+* **Metrics Overview** – View post counts, likes, comments, sentiment score.
+* **Charts** – See trends (line), sentiment breakdown (donut).
+* **Search Bar** – Quickly find reports or features.
+* **Notifications** – View alerts, updates, and errors.
+* **Profile** – Access account settings and logout.
+**Display Mode:**
+* Toggle between light and dark themes via the sidebar.
+---
+### **7. Troubleshooting Tips**
+* Refresh the page if loading fails.
+* Check your internet connection.
+* Open notifications to see system alerts.
+* Use search to find specific tools or sections.
+* The chatbot can assist with common problems.
+---
+### **8. Chatbot Assistance**
+The system bot can:
+* Guide users to tools and sections.
+* Explain metrics, trends, and error alerts.
+* Help manage account settings.
+* Provide a quick walkthrough for new users.
+
